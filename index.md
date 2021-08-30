@@ -13,12 +13,15 @@ Hello CS193
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Abel Zajzon's First CS193 Homework
 ## Header 2
 ### Header 3
 
 - Bulleted
 - List
+- I love that this class will prepare for real life scenarios
+- I will learn valuable skills that are applicable and extremely useful in the field
+- I like that I will have more experience with tools introduced in the class
 
 1. Numbered
 2. List
